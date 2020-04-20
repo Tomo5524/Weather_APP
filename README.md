@@ -1,6 +1,6 @@
 # Weather_APP
 
-Weatherapp is a simple forecast app, which uses some APIs to fetch current forecast data from the OpenWeatherMap and to fetch places,cities,counties,coords etc. 
+Weatherapp is a simple forecast app, which uses some APIs to fetch current forecast data from the OpenWeatherMap and to fetch places, cities, counties etc. 
 The main goal of this app is to be a sample of how to build an GUI application that deals with API and Jason in Python
 
 In Screenshot1, you can enter the city of which you want to look up the weather. 
