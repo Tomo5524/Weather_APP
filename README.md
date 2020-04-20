@@ -11,3 +11,8 @@ In Screenshot2, you can see the result which showcases city, condition and tempe
 
 [Screenshot2](https://user-images.githubusercontent.com/35819620/79726482-d6dc1e80-8325-11ea-8ec0-3b98955953b9.png)
 
+More examples
+
+[Example1](https://user-images.githubusercontent.com/35819620/79728046-44894a00-8328-11ea-8fdb-42470841ae96.png)
+
+[Example2](https://user-images.githubusercontent.com/35819620/79728147-6aaeea00-8328-11ea-8a31-afb44c053eae.png)
