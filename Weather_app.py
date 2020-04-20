@@ -20,11 +20,9 @@ def format_response(weather_json):
 
 
 def get_weather(city):
-    weather_key = "edffd1bf975a74d5d10e58c5ac8be2d3"
     url = 'https://api.openweathermap.org/data/2.5/weather'
     params = {'APPID': 'edffd1bf975a74d5d10e58c5ac8be2d3', 'q': city, 'units':'metric'}
     response = requests.get(url, params=params)
-    print(response.json())
     weather_json = response.json()
 
     results['text'] = format_response(response.json())
